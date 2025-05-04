@@ -1,0 +1,1 @@
+This repo should be placed in the .oh-my-zsh/custom folder
